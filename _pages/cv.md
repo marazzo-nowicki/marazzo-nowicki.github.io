@@ -2,7 +2,7 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: false
+author_profile: true
 ---
 
 <iframe src="/files/CV.pdf" width="100%" height="900" style="border: 0;"></iframe>
