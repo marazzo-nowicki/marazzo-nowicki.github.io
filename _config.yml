@@ -23,11 +23,11 @@ repository               : "marazzo-nowicki/marazzo-nowicki.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile2.jpg"
+  avatar           : "profile.jpg"
   name             : "Braden J. Marazzo-Nowicki"
   pronouns         : "they/them"
   bio              : "MSc Physics, McGill University | Astrophysics"
-  location         : "Tiohtià:ke/Mooniyang/Montréal, Québec, Canada"
+  location         : "Tiohtià:ke/Montréal, Québec, Canada"
   employer         : "McGill University"
   uri              : # URL
   email            : "braden.nowicki@mail.mcgill.ca" 
