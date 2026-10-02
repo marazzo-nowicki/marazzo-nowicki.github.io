@@ -2,12 +2,8 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+author_profile: false
 ---
-
-{% include base_path %}
 
 <iframe src="/files/CV.pdf" width="100%" height="900" style="border: 0;"></iframe>
 
