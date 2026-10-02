@@ -31,5 +31,6 @@ As of September 2026, I am serving as the McGill Graduate Association of Physics
 
 I intend to expand the role. Stay tuned!
 
+## Land Acknowledgement
 _The city colonially known as Montréal originally went by the names Tiohtià:ke and Mooniyang. It is located on the unceded traditional territory of the Kanien’ké:ha, Haudenosaunee, Anishinaabe, and Wendat peoples. This land has long served as a place for meeting and exchange among groups of Indigenous people. While this recognition is an important step, settlers must work to further understand their obligations as guests on Indigenous land. For more information, or to get involved, please read the [Indigenous Ally Toolkit](https://reseaumtlnetwork.com/en/publication/ally-toolkit/) or donate time or money to the Native Women’s Shelter, Resilience Montreal, or other Indigenous organizations. Land acknowledgement adapted from [Queer McGill](https://queermcgill.ssmu.ca/)._
 
