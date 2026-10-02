@@ -24,7 +24,7 @@ main:
   #  url: /year-archive/
     
   - title: "CV"
-    url: /files/CV
+    url: /cv/
 
   - title: "Resources"
     url: /resources/
