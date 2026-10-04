@@ -1,13 +1,16 @@
 ---
-permalink: /projects/
+layout: archive
 title: "Projects"
+permalink: /projects/
 author_profile: true
 ---
 
 {% include base_path %}
 
-{% for post in site.projects reversed %}
-  {% include cards.html %}
+{% assign items = site.projects | sort: "date" | reverse %}
+{% for post in items %}
+  {% include archive-single.html %}
 {% endfor %}
 
 Under construction!
+
