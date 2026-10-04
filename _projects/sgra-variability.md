@@ -4,7 +4,7 @@ collection: projects
 permalink: /projects/sgra-variability/
 author_profile: true
 excerpt: 'excerpt'
-image: '/images/projects/sgra-img-panel/'
+date: 2026-10-04
 ---
 
-Page content
+The full project description goes here.
