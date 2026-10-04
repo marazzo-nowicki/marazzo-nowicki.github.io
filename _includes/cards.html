@@ -1,0 +1,39 @@
+{% include base_path %}
+
+{% if post.header.teaser %}
+{% capture teaser %}{{ post.header.teaser }}{% endcapture %}
+{% else %}
+{% assign teaser = site.teaser %}
+{% endif %}
+{% if post.id %}
+{% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+{% else %}
+{% assign title = post.title %}
+{% endif %}
+
+<div class="blog-card">
+  <div class="meta">
+    {% if post.image %}
+    {% if post.href %}
+      <div class="photo" style="background-image:url('{{post.image}}')" onclick='(()=>{location.href="{{post.href}}"})()'></div>
+    {% else %}
+      <div class="photo" style="background-image:url('{{post.image}}')"></div>
+    {% endif %}
+    {% else %}
+    {% if post.href %}
+      <div class="photo" style="background-image:url('/images/misc/image_not_found.jpg')" onclick='(()=>{location.href="{{post.href}}"})()'></div>
+    {% else %}                                                                        
+      <div class="photo" style="background-image:url('/images/misc/image_not_found.jpg')"></div>
+    {% endif %}
+    {% endif %}
+  </div>
+  <div class="description">
+    <h1>{{post.title}}</h1>
+    <p> {{post.excerpt}}</p>
+    <p class="see-more">
+      {% if post.href %}
+      <a href="{{ post.href }} ">See More</a>
+      {% endif %}
+    </p>
+  </div>
+</div>
