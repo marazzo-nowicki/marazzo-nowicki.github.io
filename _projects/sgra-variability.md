@@ -4,7 +4,7 @@ collection: projects
 permalink: /projects/sgra-variability/
 author_profile: true
 excerpt: 'excerpt'
-image: '/images/projects/sgra-img-panel/
+image: '/images/projects/sgra-img-panel/'
 ---
 
 Page content
