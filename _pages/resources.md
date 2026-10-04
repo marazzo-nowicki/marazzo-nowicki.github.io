@@ -4,4 +4,11 @@ title: "Resources"
 author_profile: true
 ---
 
+<ul>
+{% assign items = site.resources | sort: "date" | reverse %}
+{% for p in items %}
+  <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+{% endfor %}
+</ul>
+
 Under construction!
