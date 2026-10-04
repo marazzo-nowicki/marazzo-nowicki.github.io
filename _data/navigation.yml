@@ -8,6 +8,19 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Resources"
+    url: /resources/
+    # EDI, Responsible Siting, reading lists, prison abolition, Palestine/academic boycotts
+
+  - title: "CV"
+    url: /cv/
+
+  - title: "Personal"
+    url: /personal/
+    # birds, film photos, music, poetry, books/reading lists
   #- title: "Publications"
   #  url: /publications/
 
@@ -22,15 +35,6 @@ main:
         
   #- title: "Blog Posts"
   #  url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-
-  - title: "Resources"
-    url: /resources/
-
-  - title: "Projects"
-    url: /projects/
     
   # - title: "CV"
   #   url: /cv-json/
