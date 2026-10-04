@@ -223,7 +223,7 @@ kramdown:
 collections:
   projects:
     output: true
-    permaline: /:collection/:path/
+    permalink: /:collection/:path/
   resources:
     output: true
     permalink: /:collection/:path/
