@@ -10,5 +10,3 @@ author_profile: true
   <li><a href="{{ p.url }}">{{ p.title }}</a></li>
 {% endfor %}
 </ul>
-
-Under construction!
