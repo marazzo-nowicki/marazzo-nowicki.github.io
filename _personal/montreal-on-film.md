@@ -13,4 +13,4 @@ Film photography in Montréal. Shot on __ point and shoot with 35mm 200 or 400 F
   <figcaption>Parc La Fontaine in summer.</figcaption>
 </figure>
 
-![Light curve of Sgr A*](/images/sgra/lightcurve.png){: width="500"}
+![Light curve of Sgr A*](/images/film/000093260024.jpeg){: width="500"}
