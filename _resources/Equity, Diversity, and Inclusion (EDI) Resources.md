@@ -3,7 +3,7 @@ title: "Equity, Diversity, and Inclusion (EDI) Resources"
 collection: resources
 permalink: /resources/EDI-resources/
 author_profile: true
-excerpt: 'excerpt'
+excerpt: 'A resource-list for McGill Physics EDI resources and learning about general EDI work.'
 ---
 
 Physics Equity, Diversity, and Inclusion (EDI) encompasses frameworks and processes of improving representation and diversity in the field of physics. These aims go far beyond a diversity-as-numbers approach. Through EDI practices, we aim to reduce the structural and systemic harms of white supremacist, ableist, cis-heteropatriarchy and other worldviews which position white Eurocentric, heterosexual, gender normative, able-bodied, and male dominant values as superior to other forms of knowing and being in the world. Such worldviews are born of the colonialism, settler colonialism, ethnic cleansing, and genocide that Western European nations and institutions are founded upon. The effects of this violence reverberate and perpetuate in many forms, seen and unseen, today.
