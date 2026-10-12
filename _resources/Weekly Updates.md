@@ -1,3 +1,10 @@
+---
+title: "Weekly EDI Newsletter"
+collection: resources
+permalink: /resources/EDI-newsletter/
+author_profile: true
+---
+
 
 ## Week of October 5, 2026
 Hiya! My name is Braden (they/them)---your new EDI officer! Feel free to reach out to me (braden.nowicki@mail.mcgill.ca) or other members of our lovely EDI committee for any EDI-related issues, concerns, or suggestions. In this lil' section of the newsletter, I'll be continuing the list of pertinent weekly cultural events which Jack initiated. I'm currently deciding what to include each week (Holidays & observances? Independence & national days? Remembrance days? Local Quebec & Montréal history? EDI History? STEM Spotlights? Poets?), so let me know what you'd like to see! In any case, I'll maintain a thorough list of what I find (under construction---stay tuned), along with a general EDI resource list pointing you to...more resource lists!
