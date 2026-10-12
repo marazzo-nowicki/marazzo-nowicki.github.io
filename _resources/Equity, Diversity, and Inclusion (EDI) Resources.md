@@ -1,7 +1,7 @@
 ---
 title: "Equity, Diversity, and Inclusion (EDI) Resources"
 collection: resources
-permalink: /resources/EDI-resources/
+permalink: /resources/resources-EDI/
 author_profile: true
 excerpt: 'A resource-list for McGill Physics EDI resources and learning about general EDI work.'
 ---
