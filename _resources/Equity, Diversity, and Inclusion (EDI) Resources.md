@@ -1,5 +1,5 @@
 ---
-title: "Equity, Diversity, and Inclusion (EDI) Resources"
+title: "Equity, Diversity, and Inclusion (EDI) Resource List"
 collection: resources
 permalink: /resources/resources-EDI/
 author_profile: true
