@@ -14,8 +14,8 @@ main:
   - title: "Talks/Conferences"
     url: /talks/
 
-  - title: "Projects"
-    url: /projects/
+  #- title: "Projects"
+  #  url: /projects/
 
   - title: "Resources"
     url: /resources/
